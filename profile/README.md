@@ -1,6 +1,6 @@
 # NL Portal
 
-NL Portal is applicatie waarmee organisaties kunnen communiceren met burgers en derde partijen. Het is een Mijn Omgeving. NL Portaal is gebouwd volgens de principes van [Common Ground](https://vng.nl/artikelen/common-ground). NL Portal is gebruikt de API's van [VNG Zaakgericht werken](https://vng-realisatie.github.io/gemma-zaken/standaard/). De portal is open source en kan door elke (overheids-) organisatie gebruikt en verbeterd worden zonder enige restricties.
+NL Portal is een applicatie waarmee organisaties kunnen communiceren met burgers en derde partijen. Het is een Mijn Omgeving. NL Portaal is gebouwd volgens de principes van [Common Ground](https://vng.nl/artikelen/common-ground). NL Portal is gebruikt de API's van [VNG Zaakgericht werken](https://vng-realisatie.github.io/gemma-zaken/standaard/). De portal is open source en kan door elke (overheids-) organisatie gebruikt en verbeterd worden zonder enige restricties.
 
 De basis principes van NL Portal zijn:
 - Open standaarden, open source licentie EUPL 1.2;
